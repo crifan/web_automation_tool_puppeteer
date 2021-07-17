@@ -1,0 +1,22 @@
+{
+  "title": "Web前端自动化利器：puppeteer",
+  "description": "介绍Web前端自动化利器puppeteer。如何用puppeteer实现模拟用户自动操作Web页面。",
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Gitbook演示"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "web_automation_tool_puppeteer"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/web_automation_tool_puppeteer/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/web_automation_tool_puppeteer/pdf/web_automation_tool_puppeteer.pdf"
+    }
+  }
+}
